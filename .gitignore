@@ -61,3 +61,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+IPAInfo/.DS_Store
+IPAInfo/icons/.DS_Store
+.DS_Store
